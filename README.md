@@ -8,6 +8,7 @@ git clone git@github.com:kjgent/dockerNodeTemplate.git
 ```
 
 ## Docker Watch
+You can develop using this and see changes live
 ```bash
 docker compose watch
 ```
