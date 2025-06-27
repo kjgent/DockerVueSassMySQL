@@ -12,6 +12,8 @@ You can develop using this and see changes live
 ```bash
 docker compose watch
 ```
+Sometimes mysql will not start before the backend calls it.
+Just wait and refresh or try running 'docker compose up'.
 
 ## Docker Up
 ```bash
