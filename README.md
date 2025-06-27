@@ -4,7 +4,7 @@ A bootstrap node application with Docker, Vue, Sass, and MySQL
 ## Installation
 
 ```bash
-git clone git@github.com:kjgent/dockerNodeTemplate.git
+git clone git@github.com:kjgent/DockerVueSassMySQL.git
 ```
 
 ## Docker Watch
